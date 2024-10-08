@@ -1,3 +1,6 @@
 {
-  "key": "HamzLegendz"
+    "users": [
+        { "password": "070809" },
+        { "password": "HamzLegendz" }
+    ]
 }
